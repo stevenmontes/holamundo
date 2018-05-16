@@ -23,6 +23,6 @@ public class Ejemplogithub {
      * @param args the command line arguments
      */
     public static void main(String[] args) throws IOException {
-            imprimir.println("hola mundo.");
+            imprimir.println("adios mundo cruel.");
     }
 }
